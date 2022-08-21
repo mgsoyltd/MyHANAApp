@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "MyHANAApp",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"SAP HANA Database Explorer.displaySapWebAnalyticsStartupNotification": false
+	}
+}
