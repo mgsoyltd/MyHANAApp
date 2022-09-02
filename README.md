@@ -39,3 +39,8 @@ hana-cli start or hana-cli stop
 '''
 cds bind --exec npm run app 
 '''
+
+## User-API
+'''
+http://localhost:5000/user-api/attributes
+'''
