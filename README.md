@@ -1,5 +1,7 @@
 # Getting Started
 
+https://www.youtube.com/watch?v=yceqr9vycrs&list=WL
+
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
