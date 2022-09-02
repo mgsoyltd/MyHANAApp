@@ -20,6 +20,11 @@ File or Folder | Purpose
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
 
+'''
+cds build
+npm run deplowy
+'''
+
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
@@ -37,10 +42,16 @@ hana-cli start or hana-cli stop
 ## Run the app
 
 '''
+npm run watch
 cds bind --exec npm run app 
 '''
 
 ## User-API
 '''
 http://localhost:5000/user-api/attributes
+'''
+
+## Call HDB Procedure 
+'''
+http://localhost:5000/catalog/sleep()
 '''
