@@ -29,3 +29,13 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 cds bind --exec npm run app
 '''
 
+## Start and Stop Hana Cloud Service
+'''
+hana-cli start or hana-cli stop
+'''
+
+## Run the app
+
+'''
+cds bind --exec npm run app 
+'''
