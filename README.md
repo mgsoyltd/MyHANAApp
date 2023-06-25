@@ -24,7 +24,7 @@ File or Folder | Purpose
 
 '''
 cds build
-npm run deplowy
+npm run deploy
 '''
 
 ## Learn More
